@@ -1,2 +1,1 @@
-# etch-a-sketch
-Etch a Sketch (The Odin Project)
+# Etch A Sketch (The Odin Project)
